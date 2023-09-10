@@ -1,0 +1,42 @@
+[
+  {
+    "title": "prueba de producto actualizado",
+    "description": "Descripción del producto1",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "id": "797397"
+  },
+  {
+    "title": "Nombre del Producto2",
+    "description": "Descripción del producto2",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "id": "755448"
+  },
+  {
+    "title": "Nombre del Producto3",
+    "description": "Descripción del producto3",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "id": "777962"
+  },
+  {
+    "title": "Nombre del Producto4",
+    "description": "Descripción del producto4",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electrónicos",
+    "id": "910217"
+  }
+]
